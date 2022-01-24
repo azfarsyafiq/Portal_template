@@ -1,0 +1,84 @@
+Name                                                                     Version           
+DFSv2_AplikasiPC                                                         1.0.0             
+ATTO Disk Benchmark                                                      4.010.4001        
+Office 16 Click-to-Run Extensibility Component                           16.0.14527.20234  
+Office 16 Click-to-Run Localization Component                            16.0.14026.20246  
+Office 16 Click-to-Run Extensibility Component 64-bit Registration       16.0.14527.20234  
+Office 16 Click-to-Run Licensing Component                               16.0.14527.20234  
+Microsoft VC++ redistributables repacked.                                12.0.0.0          
+Intel(R) Wireless Bluetooth(R)                                           20.90.1           
+Software Operation Panel                                                 4.24.512          
+SQL Server Management Studio for Analysis Services                       15.0.18390.0      
+Microsoft SQL Server 2019 T-SQL Language Service                         15.0.2000.5       
+TOSHIBA System Driver                                                    4.00.0007.06      
+Microsoft Visual C++ 2005 Redistributable (x64)                          8.0.61000         
+Microsoft Help Viewer 2.3                                                2.3.28107         
+Intel(R) Management Engine Components                                    1.0.0.0           
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005               12.0.21005        
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005            12.0.21005        
+SQL Server 2019 XEvent                                                   15.0.2000.5       
+SQL Server 2019 Connection Info                                          15.0.2000.5       
+SQL Server 2019 DMF                                                      15.0.2000.5       
+Microsoft OLE DB Driver for SQL Server                                   18.5.0.0          
+Microsoft SQL Server 2019 RsFx Driver                                    15.0.2000.5       
+Microsoft VSS Writer for SQL Server 2019                                 15.0.2000.5       
+Intel(R) Trusted Connect Service Client x86                              1.49.213.1        
+Intel(R) Trusted Connect Service Client x64                              1.49.213.1        
+SQL Server 2019 Connection Info                                          15.0.2000.5       
+SQL Server Management Studio for Reporting Services                      15.0.18390.0      
+Fuji Xerox DocuWorks Extended Folder for Working Folder 1.9.1            1.9.1             
+Adobe Refresh Manager                                                    1.8.0             
+Adobe Acrobat Reader DC                                                  21.007.20099      
+Macrium Reflect Free Edition                                             7.3.5854          
+Fuji Xerox DocuWorks 9 LangPack                                          9.0.8             
+SQL Server 2019 Database Engine Shared                                   15.0.2000.5       
+Integration Services                                                     15.0.2000.168     
+Browser for SQL Server 2019                                              15.0.2000.5       
+Microsoft Visual C++ 2017 X64 Minimum Runtime - 14.16.27033              14.16.27033       
+Microsoft SQL Server 2012 Native Client                                  11.4.7462.6       
+SQL Server 2019 DMF                                                      15.0.2000.5       
+Intel(R) Management Engine Driver                                        1.0.0.0           
+Microsoft Visual C++ 2017 X64 Additional Runtime - 14.16.27033           14.16.27033       
+LibreOffice 7.2.2.2                                                      7.2.2.2           
+SQL Server 2019 Shared Management Objects Extensions                     15.0.2000.5       
+Intel(R) Chipset Device Software                                         10.1.17809.8096   
+Open-Shell                                                               4.4.169           
+Microsoft Update Health Tools                                            2.84.0.0          
+SQL Server 2019 SQL Diagnostics                                          15.0.2000.5       
+Sharpdesk                                                                3.3               
+Intel(R) Management Engine Components                                    1.0.0.0           
+SSMS Post Install Tasks                                                  15.0.18390.0      
+SQL Server 2019 Shared Management Objects                                15.0.2000.5       
+                                                                                           
+SQL Server Management Studio                                             15.0.18390.0      
+SQL Server 2019 Common Files                                             15.0.2000.5       
+PaperStream IP (TWAIN)                                                   3.0.208           
+Microsoft Visual C++ 2017 X86 Additional Runtime - 14.16.27024           14.16.27024       
+Intel(R) PRO/Wireless Driver                                             21.00.0000.1087   
+Fuji Xerox DocuWorks 9                                                   9.0.8             
+SQL Server 2019 Shared Management Objects Extensions                     15.0.2000.5       
+Microsoft ODBC Driver 17 for SQL Server                                  17.7.2.1          
+Fuji Xerox Device Setup 1.4.22                                           4.4.22            
+SQL Server Management Studio                                             15.0.18390.0      
+SQL Server 2019 Batch Parser                                             15.0.2000.5       
+Visual Studio 2017 Isolated Shell for SSMS                               15.0.28307.421    
+Intel(R) Rapid Storage Technology                                        16.5.1.1030       
+Microsoft Analysis Services OLE DB Provider                              15.0.2000.568     
+SQL Server 2019 Shared Management Objects                                15.0.2000.5       
+Microsoft Visual C++ 2017 X86 Minimum Runtime - 14.16.27024              14.16.27024       
+Fuji Xerox Print & Scan Hub                                              3.1.5             
+Microsoft Visual C++ 2005 Redistributable                                8.0.61001         
+SQL Server 2019 Database Engine Services                                 15.0.2000.5       
+Microsoft VC++ redistributables repacked.                                12.0.0.0          
+SQL Server 2019 Database Engine Shared                                   15.0.2000.5       
+Intel(R) Management Engine Components                                    1.0.0.0           
+Intel® PROSet/Wireless WiFi Software                                     21.0.0.2990       
+DTS Studio Sound                                                         1.03.3800         
+Microsoft Visual Studio Tools for Applications 2017 x64 Hosting Support  15.0.27520        
+SQL Server 2019 Common Files                                             15.0.2000.5       
+Microsoft SQL Server 2019 Setup (English)                                15.0.4013.40      
+SQL Server 2019 XEvent                                                   15.0.2000.5       
+Microsoft Analysis Services OLE DB Provider                              15.0.2000.568     
+Fuji Xerox DocuWorks Extended Folder for Device Folder                   1.0.0             
+Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support  15.0.27520        
+SQL Server 2019 Database Engine Services                                 15.0.2000.5       

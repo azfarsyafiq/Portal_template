@@ -1,0 +1,26 @@
+Name                                                                Version           
+Office 16 Click-to-Run Extensibility Component                      16.0.12527.22045  
+Office 16 Click-to-Run Localization Component                       16.0.12527.22045  
+Office 16 Click-to-Run Extensibility Component 64-bit Registration  16.0.12527.22045  
+Office 16 Click-to-Run Licensing Component                          16.0.12527.22045  
+Google Toolbar for Internet Explorer                                1.0.0             
+PDFCreator                                                          4.3.0             
+Maxx Audio Installer (x64)                                          2.6.8776.0        
+Realtek Audio COM Components                                        1.0.2             
+Media Suite                                                         12.1              
+PowerDirector                                                       12.0              
+PDF Architect 8 Edit Module                                         8.0.81.14973      
+Power Media Player                                                  12.0              
+Adobe Refresh Manager                                               1.8.0             
+Adobe Acrobat Reader DC                                             21.007.20099      
+Microsoft .NET Framework 4.8                                        4.8.03761         
+Avast Update Helper                                                 1.8.1065.0        
+                                                                                      
+PDF Architect 8 View Module                                         8.0.81.14973      
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030       11.0.61030        
+Microsoft Visual C++ 2005 Redistributable                           8.0.61001         
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148      9.0.30729.4148    
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17        9.0.30729         
+Power2Go                                                            8.0               
+Sharpdesk                                                           3.3               
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030          11.0.61030        

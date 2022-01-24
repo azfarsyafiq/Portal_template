@@ -1,0 +1,29 @@
+Name                                                                Version           
+Office 16 Click-to-Run Extensibility Component                      16.0.14430.20306  
+Office 16 Click-to-Run Localization Component                       16.0.14131.20278  
+Office 16 Click-to-Run Extensibility Component 64-bit Registration  16.0.14430.20234  
+Office 16 Click-to-Run Licensing Component                          16.0.14430.20306  
+DSC/AA Factory Installer                                            2.0.6875.402      
+Intel(R) Network Connections 22.3.108.0                             22.3.0.0          
+Maxx Audio Installer (x64)                                          2.7.9434.5        
+Realtek Audio COM Components                                        1.0.2             
+Dell Digital Delivery                                               3.4.1002.0        
+Microsoft VC++ redistributables repacked.                           12.0.0.0          
+Update for Windows 10 for x64-based Systems (KB4023057)             2.53.0.0          
+Intel(R) Trusted Connect Service Client x86                         1.47.866.0        
+Intel(R) Trusted Connect Service Client x64                         1.47.866.0        
+Intel(R) ME UninstallLegacy                                         1.0.1.0           
+Intel(R) Chipset Device Software                                    10.1.1.38         
+Adobe Acrobat DC (64-bit)                                           21.007.20099      
+Adobe Refresh Manager                                               1.8.0             
+Intel(R) Management Engine Components                               1.0.0.0           
+Microsoft VC++ redistributables repacked.                           12.0.0.0          
+Microsoft Update Health Tools                                       2.84.0.0          
+                                                                                      
+Intel(R) Management Engine Components                               1.0.0.0           
+Intel(R) Management Engine Components                               1.0.0.0           
+Dell Command | Update                                               2.3.1             
+Avira Software Updater                                              2.0.6.48309       
+Sharpdesk                                                           3.3               
+Intel(R) Rapid Storage Technology                                   15.7.5.1025       
+Intel(R) Management Engine Driver                                   1.0.0.0           

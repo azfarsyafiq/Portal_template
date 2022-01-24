@@ -1,0 +1,25 @@
+Name                                                            Version           
+DFSv2_AplikasiPC                                                1.0.0             
+Office 16 Click-to-Run Extensibility Component                  16.0.14430.20306  
+Office 16 Click-to-Run Localization Component                   16.0.14131.20278  
+Office 16 Click-to-Run Licensing Component                      16.0.14430.20306  
+Dell Update - SupportAssist Update Plugin                       5.2.0.12833       
+Intel(R) LMS                                                    1.0.0.0           
+Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.23.27820     14.23.27820       
+Dell Command | Update for Windows 10                            4.0.0             
+Intel(R) Chipset Device Software                                10.1.18019.8144   
+Dell SupportAssist                                              3.8.1.23          
+Intel(R) Management Engine Components                           1.0.0.0           
+Dynamic Application Loader Host Interface Service               1.0.0.0           
+Dell SupportAssist Remediation                                  5.2.0.12833       
+Microsoft Update Health Tools                                   2.84.0.0          
+Dell Power Manager Service                                      3.7.0             
+Intel(R) Icls                                                   1.0.0.0           
+                                                                                  
+Dell Digital Delivery Services                                  4.0.92.0          
+Microsoft Visual C++ 2019 X64 Additional Runtime - 14.23.27820  14.23.27820       
+Intel(R) Management Engine Driver                               1.0.0.0           
+Intel(R) Management Engine Components                           1.0.0.0           
+Dell Optimizer                                                  1.1.112.0         
+DellOptimizerUI                                                 1.1.112.0         
+Sharpdesk                                                       3.3               

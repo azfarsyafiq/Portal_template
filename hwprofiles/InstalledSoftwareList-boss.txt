@@ -1,0 +1,21 @@
+Name                                                            Version           
+Office 16 Click-to-Run Extensibility Component                  16.0.13127.20616  
+Office 16 Click-to-Run Localization Component                   16.0.13127.20616  
+Office 16 Click-to-Run Licensing Component                      16.0.13127.20616  
+Dell Optimizer                                                  2.0.651.0         
+Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.23.27820     14.23.27820       
+Dell Command | Update for Windows 10                            4.2.1             
+Dell SupportAssist Remediation                                  5.4.3.15137       
+ExpressConnect Drivers & Services                               1.0.169           
+Intel(R) LMS                                                    1.0.0.0           
+Dell SupportAssist                                              3.10.0.47         
+Dell Power Manager Service                                      3.9.0             
+Intel(R) Management Engine Components                           1.0.0.0           
+                                                                                  
+Dell Digital Delivery Services                                  4.0.92.0          
+Microsoft Visual C++ 2019 X64 Additional Runtime - 14.23.27820  14.23.27820       
+Intel(R) Management Engine Driver                               1.0.0.0           
+Dynamic Application Loader Host Interface Service               1.0.0.0           
+DellOptimizerUI                                                 2.0.651.0         
+Dell SupportAssist OS Recovery Plugin for Dell Update           5.4.3.15137       
+Intel(R) Management Engine Components                           1.0.0.0           

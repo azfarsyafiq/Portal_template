@@ -1,0 +1,24 @@
+Name                                                                                                              Version         
+WhiteClick                                                                                                        4.1.8           
+Office 15 Click-to-Run Extensibility Component                                                                    15.0.5381.1000  
+Office 15 Click-to-Run Localization Component                                                                     15.0.5381.1000  
+Office 15 Click-to-Run Licensing Component                                                                        15.0.5381.1000  
+MSI to redistribute MS VS2010 CRT libraries                                                                       10.0.30319.1    
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022                                                         9.0.21022       
+Realtek Audio COM Components                                                                                      1.0.2           
+Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2512.0_x64__8wekyb3d8bbwe (x64)  1.0.0.0         
+MSI to redistribute MS VS2005 CRT libraries                                                                       8.0.50727.42    
+Microsoft .NET Framework 4.5.2                                                                                    4.5.51209       
+Adobe Refresh Manager                                                                                             1.8.0           
+Adobe Acrobat Reader DC                                                                                           21.007.20099    
+Microsoft Update Health Tools                                                                                     2.84.0.0        
+MSI to redistribute MS VS2005 CRT libraries                                                                       8.0.50727.42    
+Google Update Helper                                                                                              1.3.24.7        
+MSI to redistribute MS VS2010 CRT libraries                                                                       10.0.30319.1    
+                                                                                                                                  
+Microsoft DVD App Installation for Microsoft.WindowsDVDPlayer_2019.6.13291.0_neutral_~_8wekyb3d8bbwe (x64)        1.0.0.0         
+Advanced IP Scanner 2.5                                                                                           2.5.3850        
+CDCSC                                                                                                             2.00.0000       
+Broadcom NetXtreme-I Netlink Driver and Management Installer                                                      15.2.1.3        
+Avira Software Updater                                                                                            2.0.6.48309     
+Sharpdesk                                                                                                         3.3             
